@@ -1,6 +1,6 @@
 a#category-5 h3:before {
     color: red;
     display: block;
-    font-family: "Font Awesome 5 Free";
-    content: "\f007";
+    content: "\e604";
+    color: #A7A7A7;
 }
